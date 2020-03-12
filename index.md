@@ -6,7 +6,7 @@
 顺序代码，从左至右顺序排列，如下表所示。
 机构编码结构示意表
 
-![机构编码结构示意表](金融许可证机构编码编制规则_files/1.jpg)
+![机构编码结构示意表](https://raw.githubusercontent.com/andyshao2020/pics/master/shellshellfish1.jpg)
 ## 二、机构编码含义
 ### 〈一〉第[一]位是机构类型代码，用大写英文字母表示。
 |编码|名称|
